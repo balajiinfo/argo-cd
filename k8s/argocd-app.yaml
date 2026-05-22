@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/balaji259/myapp-gitops
+    repoURL: https://github.com/balajiinfo/argo-cd
     targetRevision: HEAD
     path: k8s
 
