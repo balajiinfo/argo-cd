@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: balaji259/argo-cd:v1
+          image: balaji259/argo-cd:v2
           # ^^^ REPLACE THIS with your actual Docker Hub username
           ports:
             - containerPort: 5000
